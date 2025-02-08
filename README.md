@@ -1,6 +1,6 @@
 ![Banner](https://github.com/alexanderfriman/alexanderfriman/blob/main/A_RoboticsBanner.png)
 
-### Alexander Friman
+## About me
 Hi, I'm Alexander from Finland. I'm an automation and robotics student and hobbyist game developer.
 
 ## Skills
