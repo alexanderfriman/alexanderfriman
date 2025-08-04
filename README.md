@@ -3,7 +3,6 @@
 ## About me
 Hi, I'm Alexander from Finland. I'm an automation and robotics student and hobbyist game developer.
 
-Currently working on an online multiplayer javascript board game using express.js and socket.io.
 
 ## Skills
 Languages, frameworks and enviroments:<br/>
